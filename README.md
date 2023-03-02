@@ -1,5 +1,4 @@
 # atividades-lista-2
-passos para criar um repositório no git e enviar um branch
 Lista de Exercícios 2
 
     1. Faça um Programa que peça dois números e imprima o maior deles.
